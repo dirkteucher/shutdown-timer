@@ -10,7 +10,7 @@ After installing node run the following command to run the start script in packa
 
 * npm start
 
-Alternatively I have added the compiled app here to github so you can simply download the electron-shutdown-win32-win64.zip file, unzip it and run the exe file within. 
+Alternatively I have added the compiled app here to github so you can simply download the https://github.com/dirkteucher/shutdown-timer/blob/master/electron-shutdown-win32-win64.zip file, unzip it and run the exe file within. 
 
 
 ## Build
