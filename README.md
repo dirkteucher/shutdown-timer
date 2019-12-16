@@ -3,7 +3,7 @@
 This is a simple example electron project I built in an hour that lets the user shutdown their Windows PC at a specified time.
 
 This has only been tested on windows 10 and I would not expect it to work out the box on Linux or Mac but have left the build scripts in the package.json in case anyone wants to extend this.
-
+![](https://https://raw.githubusercontent.com/dirkteucher/shutdown-timer/master/shutdown-timer.png)
 
 ## Usage
 After installing node run the following command to run the start script in package.json
