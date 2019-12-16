@@ -12,15 +12,15 @@ npm start
 
 ## Build
 
-npm run package-win
-npm run package-mac
-npm run package-linux
+* npm run package-win
+* npm run package-mac
+* npm run package-linux
 
 
 ## Credits
 
-The bulk of the UI was forked from Eleftheria https://codepen.io/EleftheriaBatsou/pen/ygvvwW/ which I then refactored into a shutdown timer.
-Electron - https://electronjs.org/
+* The bulk of the UI was forked from Eleftheria https://codepen.io/EleftheriaBatsou/pen/ygvvwW/ which I then refactored into a shutdown timer.
+* Electron - https://electronjs.org/
 
 
 ## License
