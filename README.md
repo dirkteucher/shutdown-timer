@@ -8,7 +8,10 @@ This has only been tested on windows 10 and I would not expect it to work out th
 ## Usage
 After installing node run the following command to run the start script in package.json
 
-npm start
+* npm start
+
+Alternatively I have added the compiled app here to github so you can simply download the electron-shutdown-win32-win64.zip file, unzip it and run the exe file within. 
+
 
 ## Build
 
